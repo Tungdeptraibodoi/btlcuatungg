@@ -1,0 +1,22 @@
+.vmenu{
+    padding: 0px;
+    margin: 5px;
+    list-style: none;
+    border-radius: 3px;
+    box-shadow:0 0 2px rgb(128, 128, 128) ;}
+.vmenu a{
+    text-align: center;
+    display: block;
+    border-bottom: 1px dotted blue;    
+    color: blue;
+    font-variant: small-caps;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 8px 5px 8px 30px;
+}
+.vmenu a:hover{
+    border-bottom: 1px dotted white;
+    background-color: yellowgreen;
+    color: white;
+    font-weight: bold;
+}
